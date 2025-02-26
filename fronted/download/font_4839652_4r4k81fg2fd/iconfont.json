@@ -1,0 +1,30 @@
+{
+  "id": "4839652",
+  "name": "aab",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1371934",
+      "name": "查找",
+      "font_class": "chazhao",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "2076262",
+      "name": "目录",
+      "font_class": "mulu",
+      "unicode": "e890",
+      "unicode_decimal": 59536
+    },
+    {
+      "icon_id": "6438268",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    }
+  ]
+}

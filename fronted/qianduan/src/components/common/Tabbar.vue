@@ -65,10 +65,10 @@ const isActive = (path) => {
 }
 
 .tabbar li:hover span {
-  color: #ff5f17; /* 当鼠标悬停时改变颜色 */
+  color: #2414ae; /* 当鼠标悬停时改变颜色 */
 }
 .tabbar li.active span {
-  color: #ff5f17; /* 激活状态的颜色 */
+  color: #2414ae; /* 激活状态的颜色 */
   font-weight: bold; /* 可选：加粗字体 */
 }
 </style>
